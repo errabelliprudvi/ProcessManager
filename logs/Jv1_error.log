@@ -1,0 +1,4 @@
+Error: Could not find or load main class test.Jv1
+Caused by: java.lang.NoClassDefFoundError: Jv1 (wrong name: test/Jv1)
+Error: Could not find or load main class test.Jv1
+Caused by: java.lang.NoClassDefFoundError: Jv1 (wrong name: test/Jv1)
